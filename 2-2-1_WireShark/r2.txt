@@ -1,0 +1,19 @@
+# create vlan Routing
+# configure vlan Routing tag 1000
+# configure vlan Routing ipaddress 172.16.1.11/24
+# configure vlan Routing add port 12 tagged
+# enable ipforwarding vlan Routing
+
+# enable rip
+# enable rip export direct cost 1
+# configure rip add vlan Routing
+# configure rip vlan Routing rxmode v2only
+
+# create vlan Department2
+# configure vlan Department2 tag 11
+# configure vlan Department2 ipaddress 192.168.11.254/24
+# enable ipforwarding vlan Department2
+
+# configure vlan Department2 add port 1-10 untagged
+
+# configure vlan Department2 add port 12 tagged

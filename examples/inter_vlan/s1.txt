@@ -1,0 +1,14 @@
+# create vlan department1 tag 10
+# create vlan department2 tag 20
+# configure vlan department1 ipaddress 192.168.10.1 255.255.255.0
+# configure vlan department2 ipaddress 192.168.20.1 255.255.255.0
+# configure vlan department1 add ports 1 tagged
+# configure vlan department2 add ports 1 tagged
+# 
+# configure vlan department1 add ports 5 untagged
+# configure vlan department1 add ports 6 untagged
+# 
+# 
+# enable ipforwarding VLAN department1
+# enable ipforwarding VLAN department2
+# 

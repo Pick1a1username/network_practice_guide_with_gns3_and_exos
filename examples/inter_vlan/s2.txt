@@ -1,0 +1,8 @@
+# create vlan department1 tag 10
+# create vlan department2 tag 20
+# 
+# 
+# configure vlan department1 add ports 1 tagged
+# configure vlan department2 add ports 1 tagged
+# configure vlan department2 add ports 5 untagged
+# configure vlan department2 add ports 6 untagged
