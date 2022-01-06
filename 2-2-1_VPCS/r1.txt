@@ -1,0 +1,8 @@
+# configure vlan Default ipaddress 192.168.0.254/24
+# enable dhcp ports 1-12 vlan Default
+# configure vlan Default dhcp-address-range 192.168.0.1 - 192.168.0.253
+# configure vlan Default dhcp-options default-gateway 192.168.0.254
+# configure vlan Default dhcp-options dns-server 10.0.0.1
+# configure vlan Default dhcp-options dns-server 10.0.0.2
+
+

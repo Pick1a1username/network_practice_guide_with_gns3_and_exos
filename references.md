@@ -5,3 +5,4 @@
 * [Configuring OSPF on Extreme Routers - Extreme Networks](https://youtu.be/YZkAzKoZlz4)
 * [ExtremeXOS® User Guide Version 31.5](https://documentation.extremenetworks.com/exos_31.5/GUID-7D648968-51CD-4E05-828C-8606BD5C0474.shtml)
 * [Tagged, Untagged, and Native VLANs](https://networkdirection.net/articles/network-theory/taggeduntaggedandnativevlans/)
+* [How to Configure DHCP Server on a VLAN in EXOS](https://extremeportal.force.com/ExtrArticleDetail?an=000082555&q=dhcp)
