@@ -1,0 +1,1 @@
+Formatting '/home/empty0x7/src/github/network_practice_guide_with_gns3_and_exos/3-3-2_Sample/project-files/qemu/b4014e59-2076-4f89-825d-66d424f9e9eb/hda_disk.qcow2', fmt=qcow2 cluster_size=65536 extended_l2=off compression_type=zlib size=4294967296 backing_file=/home/empty0x7/GNS3/images/QEMU/EXOS-VM_v31.1.1.3.qcow2 backing_fmt=qcow2 lazy_refcounts=off refcount_bits=16

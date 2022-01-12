@@ -1,0 +1,5 @@
+# configure snmp sysname center-s1
+
+# create vlan Routing
+# configure vlan Routing tag 1000
+# configure vlan Routing add port 1-10 tagged
