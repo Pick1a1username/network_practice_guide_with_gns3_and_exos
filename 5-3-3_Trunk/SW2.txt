@@ -1,0 +1,20 @@
+configure snmp sysname SW2
+
+create vlan Vlan10
+create vlan Vlan20
+create vlan Vlan30
+show vlan
+
+configure vlan Vlan10 tag 10
+configure vlan Vlan10 add port 1 untagged
+configure vlan Vlan20 tag 20
+configure vlan Vlan20 add port 2 untagged
+configure vlan Vlan30 tag 30
+configure vlan Vlan30 add port 3 untagged
+
+configure vlan Vlan10 add port 12 tagged
+configure vlan Vlan20 add port 12 tagged
+configure vlan Vlan30 add port 12 tagged
+show ports vlan
+
+save config
