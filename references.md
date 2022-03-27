@@ -8,3 +8,6 @@
 * [How to Configure DHCP Server on a VLAN in EXOS](https://extremeportal.force.com/ExtrArticleDetail?an=000082555&q=dhcp)
 * [Show neighbor](https://community.extremenetworks.com/communities/community-home/digestviewer/viewthread?MessageKey=b161f4bb-ba3c-411f-b423-76e95bf6b536&CommunityKey=16bbf7da-185b-4682-b7ed-e3251dffda9a&tab=digestviewer#bmb161f4bb-ba3c-411f-b423-76e95bf6b536)
 * [how to assign name on switch?](https://community.extremenetworks.com/communities/community-home/digestviewer/viewthread?MessageKey=380d0c23-9174-4ddc-bac1-9848c0209f7e&CommunityKey=929e6d1f-141a-4b6d-b66e-7ebfd2f3f952&tab=digestviewer#bm380d0c23-9174-4ddc-bac1-9848c0209f7e)
+* [Understanding EXOS VLANs and tagged and untagged ports](https://extremeportal.force.com/ExtrArticleDetail?an=000081372)
+* [Which Command is Used to add/remove ports on a VLAN in EXOS?](https://extremeportal.force.com/ExtrArticleDetail?an=000090957)
+* [EXOS – Create Vlan](http://www.extremenetworks.guru/29/)

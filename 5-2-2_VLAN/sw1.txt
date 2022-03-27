@@ -1,0 +1,16 @@
+configure snmp sysname sw1
+
+create vlan Dev_V10
+configure vlan Dev_V10 tag 10
+create vlan It_V20
+configure vlan It_V20 tag 20
+create vlan Sales_V30
+configure vlan Sales_V30 tag 30
+show vlan
+
+configure vlan Dev_V10 add port 1-2 untagged
+configure vlan It_V20 add port 3-4 untagged
+configure vlan Sales_V30 add port 5-6 untagged
+show ports vlan
+
+save config

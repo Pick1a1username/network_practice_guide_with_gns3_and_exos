@@ -1,0 +1,5 @@
+ping 172.16.10.2
+ping --help
+ping
+ping 172.16.10.2 -t
+quit
