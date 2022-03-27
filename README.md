@@ -10,4 +10,4 @@
 
 アクセスポートの設定
 
-![5-2-2_VLAN Configuration](5-5-2_VLAN/config.png)
+![5-2-2_VLAN Configuration](5-2-2_VLAN/config.png)
