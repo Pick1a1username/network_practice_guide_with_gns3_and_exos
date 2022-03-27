@@ -205,6 +205,24 @@
                 "x": 311,
                 "y": -14,
                 "z": 2
+            },
+            {
+                "drawing_id": "f6d0e32e-aea3-46ed-9231-99d2daa20421",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"887.0\" height=\"434.0\"><ellipse cx=\"443\" rx=\"444\" cy=\"217\" ry=\"217\" fill=\"#aaffff\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
+                "x": -437,
+                "y": -203,
+                "z": 0
+            },
+            {
+                "drawing_id": "576fcbc5-3381-4ad9-9837-b8132fe336ce",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"41\" height=\"34\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">RIP</text></svg>",
+                "x": -14,
+                "y": -196,
+                "z": 2
             }
         ],
         "links": [
