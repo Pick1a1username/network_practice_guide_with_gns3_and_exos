@@ -1,0 +1,11 @@
+configure snmp sysname SW2
+
+enable mvrp
+enable mvrp port 12
+show ports vlan
+show vlan
+
+configure vlan Vlan20 add port 1 untagged
+show ports vlan
+
+save config

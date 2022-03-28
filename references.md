@@ -11,3 +11,4 @@
 * [Understanding EXOS VLANs and tagged and untagged ports](https://extremeportal.force.com/ExtrArticleDetail?an=000081372)
 * [Which Command is Used to add/remove ports on a VLAN in EXOS?](https://extremeportal.force.com/ExtrArticleDetail?an=000090957)
 * [EXOS – Create Vlan](http://www.extremenetworks.guru/29/)
+* [VLAN not propagating across the network after enabling MVRP](https://extremeportal.force.com/ExtrArticleDetail?an=000062955&q=mvrp)

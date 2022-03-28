@@ -1,0 +1,13 @@
+# SW1
+
+config vlan Vlan10 del port 12
+config vlan Vlan10 del port 1
+config vlan Default add port 1 Untagged
+show ports vlan
+
+# SW2
+
+config vlan Vlan10 del port 12
+config vlan Vlan10 del port 1
+config vlan Default add port 1 Untagged
+show ports vlan

@@ -1,0 +1,17 @@
+configure snmp sysname SW1
+
+enable mvrp
+enable mvrp port 12
+show ports vlan
+
+create vlan Vlan10
+create vlan Vlan20
+show vlan
+
+configure vlan Vlan10 tag 10
+configure vlan Vlan10 add port 1 untagged
+configure vlan Vlan20 tag 20
+configure vlan Vlan20 add port 2 untagged
+show ports vlan
+
+save config

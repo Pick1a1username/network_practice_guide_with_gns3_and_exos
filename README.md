@@ -31,3 +31,7 @@
 5-3-3 トランクリンクの設定
 
 ![5-3-3_Trunk Configuration](5-3-3_Trunk/config.png)
+
+## 5-4-2_VTP-replaced_by_MVRP
+
+WIP
