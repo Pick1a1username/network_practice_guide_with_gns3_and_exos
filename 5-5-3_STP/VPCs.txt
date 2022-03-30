@@ -1,0 +1,7 @@
+# This the configuration for PC1
+set pcname PC1
+ip 172.16.10.1/24
+
+# This the configuration for PC2
+set pcname PC2
+ip 172.16.20.1/24

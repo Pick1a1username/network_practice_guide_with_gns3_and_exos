@@ -12,3 +12,8 @@
 * [Which Command is Used to add/remove ports on a VLAN in EXOS?](https://extremeportal.force.com/ExtrArticleDetail?an=000090957)
 * [EXOS – Create Vlan](http://www.extremenetworks.guru/29/)
 * [VLAN not propagating across the network after enabling MVRP](https://extremeportal.force.com/ExtrArticleDetail?an=000062955&q=mvrp)
+* [How to configure PVST+ in EXOS](https://extremeportal.force.com/ExtrArticleDetail?an=000080128)
+* [Any feature like spantree Portfast of cisco in EOS](https://community.extremenetworks.com/communities/community-home/digestviewer/viewthread?MessageKey=f0ea77aa-914c-49b5-94e1-59e626eb2a38&CommunityKey=929e6d1f-141a-4b6d-b66e-7ebfd2f3f952&tab=digestviewer#bmf0ea77aa-914c-49b5-94e1-59e626eb2a38)
+* [Configuring Rapid PVST+ Using NX-OS](https://www.cisco.com/c/en/us/td/docs/switches/datacenter/sw/4_2/nx-os/layer2/configuration/guide/Cisco_Nexus_7000_Series_NX-OS_Layer_2_Switching_Configuration_Guide_Release_4-2_chapter6.html#con_1489851)
+* [Error: Incorrect carrier vlan configuration of port <PORT> in stp domain <STPD>](https://extremeportal.force.com/ExtrArticleDetail?an=000090240)
+* [What is an STP Carrier vlan?](https://extremeportal.force.com/ExtrArticleDetail?an=000089233)
