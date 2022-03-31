@@ -3,31 +3,42 @@ configure snmp sysname SW1
 create vlan Vlan100 tag 100
 create vlan Vlan200 tag 200
 create vlan SVlan10 tag 10
+create vlan SVlan20 tag 20
 show vlan
 
 configure vlan default delete ports all
-configure vlan Default del port 11
-configure vlan Default del port 12
 configure vlan Vlan100 add port 11 tagged
 configure vlan Vlan200 add port 11 tagged
 configure vlan SVlan10 add port 11 tagged
+configure vlan SVlan20 add port 11 tagged
 configure vlan Vlan100 add port 12 tagged
 configure vlan Vlan200 add port 12 tagged
 configure vlan SVlan10 add port 12 tagged
+configure vlan SVlan20 add port 12 tagged
 show ports vlan
 
 create stpd s1
 configure stpd s1 priority 0
 configure stpd s1 default-encapsulation dot1d
 configure stpd s1 add vlan Vlan100 ports 11 pvst-plus
-configure stpd s1 add vlan Vlan200 ports 11 pvst-plus
 configure stpd s1 add vlan SVlan10 ports 11 pvst-plus
 configure stpd s1 add vlan Vlan100 ports 12 pvst-plus
-configure stpd s1 add vlan Vlan200 ports 12 pvst-plus
 configure stpd s1 add vlan SVlan10 ports 12 pvst-plus
 configure stpd s1 tag 10
 enable stpd s1
 show stpd s1
 show stpd s1 ports
+
+create stpd s2
+configure stpd s2 priority 0
+configure stpd s2 default-encapsulation dot1d
+configure stpd s2 add vlan Vlan200 ports 11 pvst-plus
+configure stpd s2 add vlan SVlan20 ports 11 pvst-plus
+configure stpd s2 add vlan Vlan200 ports 12 pvst-plus
+configure stpd s2 add vlan SVlan20 ports 12 pvst-plus
+configure stpd s2 tag 20
+enable stpd s2
+show stpd s2
+show stpd s2 ports
 
 save config
