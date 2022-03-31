@@ -35,3 +35,11 @@
 ## 5-4-2_VTP-replaced_by_MVRP
 
 WIP
+
+## 5-5-3_STP
+
+5-5-4 PVST+の動作確認と収束時間の短縮
+
+Edge Port(PortFreeのEXOS版)は試していない。
+
+![5-5-3_STP](5-5-3_STP/config.png)

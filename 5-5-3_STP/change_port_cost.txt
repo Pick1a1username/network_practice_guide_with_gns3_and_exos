@@ -1,0 +1,1 @@
+config stpd s2 port cost 18 12 

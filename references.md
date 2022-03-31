@@ -17,3 +17,6 @@
 * [Configuring Rapid PVST+ Using NX-OS](https://www.cisco.com/c/en/us/td/docs/switches/datacenter/sw/4_2/nx-os/layer2/configuration/guide/Cisco_Nexus_7000_Series_NX-OS_Layer_2_Switching_Configuration_Guide_Release_4-2_chapter6.html#con_1489851)
 * [Error: Incorrect carrier vlan configuration of port <PORT> in stp domain <STPD>](https://extremeportal.force.com/ExtrArticleDetail?an=000090240)
 * [What is an STP Carrier vlan?](https://extremeportal.force.com/ExtrArticleDetail?an=000089233)
+* [how to disable extreme switch port](https://www.youtube.com/watch?v=BdCJUtNw_Kg)
+* [Any feature like spantree Portfast of cisco in EOS](https://community.extremenetworks.com/communities/community-home/digestviewer/viewthread?MessageKey=f0ea77aa-914c-49b5-94e1-59e626eb2a38&CommunityKey=929e6d1f-141a-4b6d-b66e-7ebfd2f3f952&tab=digestviewer#bmf0ea77aa-914c-49b5-94e1-59e626eb2a38)
+* [edge port using safeguard](https://community.extremenetworks.com/communities/community-home/digestviewer/viewthread?MessageKey=bc6af03b-e857-428b-b5bd-7ab3a4fb2df5&CommunityKey=929e6d1f-141a-4b6d-b66e-7ebfd2f3f952&tab=digestviewer#bmbc6af03b-e857-428b-b5bd-7ab3a4fb2df5)

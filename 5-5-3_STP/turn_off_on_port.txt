@@ -1,0 +1,2 @@
+disable port 1
+enable port 1
