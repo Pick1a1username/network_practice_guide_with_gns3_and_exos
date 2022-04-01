@@ -1,0 +1,6 @@
+configure snmp sysname SW2
+
+enable sharing 11 grouping 11-12
+show sharing
+
+save config

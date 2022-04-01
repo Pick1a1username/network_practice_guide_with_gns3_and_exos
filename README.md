@@ -43,3 +43,9 @@ WIP
 Edge Port(PortFreeのEXOS版)は試していない。
 
 ![5-5-3_STP](5-5-3_STP/config.png)
+
+## 5-6-2_EtherChannel_replaced_by_Sharing_Port
+
+5-6-2 EtherChannelの設定
+
+![5-6-2_EtherChannel_replaced_by_Sharing_Port](5-6-2_EtherChannel_replaced_by_Sharing_Port/config.png)

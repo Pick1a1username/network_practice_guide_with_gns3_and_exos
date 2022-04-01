@@ -20,3 +20,5 @@
 * [how to disable extreme switch port](https://www.youtube.com/watch?v=BdCJUtNw_Kg)
 * [Any feature like spantree Portfast of cisco in EOS](https://community.extremenetworks.com/communities/community-home/digestviewer/viewthread?MessageKey=f0ea77aa-914c-49b5-94e1-59e626eb2a38&CommunityKey=929e6d1f-141a-4b6d-b66e-7ebfd2f3f952&tab=digestviewer#bmf0ea77aa-914c-49b5-94e1-59e626eb2a38)
 * [edge port using safeguard](https://community.extremenetworks.com/communities/community-home/digestviewer/viewthread?MessageKey=bc6af03b-e857-428b-b5bd-7ab3a4fb2df5&CommunityKey=929e6d1f-141a-4b6d-b66e-7ebfd2f3f952&tab=digestviewer#bmbc6af03b-e857-428b-b5bd-7ab3a4fb2df5)
+* [How to Create and Delete an EXOS Sharing Group (LAG / Port-Channel)](https://extremeportal.force.com/ExtrArticleDetail?an=000074233)
+* [[GNS3 Labs. EXOS] 익스트림 스위치 port sharing 설정](https://blog.boxcorea.com/wp/archives/2152)
