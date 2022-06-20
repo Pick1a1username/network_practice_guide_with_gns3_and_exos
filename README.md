@@ -49,3 +49,8 @@ Edge Port(PortFreeのEXOS版)は試していない。
 5-6-2 EtherChannelの設定
 
 ![5-6-2_EtherChannel_replaced_by_Sharing_Port](5-6-2_EtherChannel_replaced_by_Sharing_Port/config.png)
+
+## メモ
+
+* Extreme Switchはフレームリレー機能を持っていない。
+* Extreme SwitchはGNS3標準搭載のフレームリレーに繋げられない。
