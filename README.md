@@ -52,5 +52,7 @@ Edge Port(PortFreeのEXOS版)は試していない。
 
 ## メモ
 
-* Extreme Switchはフレームリレー機能を持っていない。
-* Extreme SwitchはGNS3標準搭載のフレームリレーに繋げられない。
+* Extreme Switchで試されない機能
+  * フレームリレー
+  * ATM
+  * PPP、PPPoE
