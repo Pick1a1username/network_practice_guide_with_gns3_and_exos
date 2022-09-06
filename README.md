@@ -50,6 +50,12 @@ Edge Port(PortFreeのEXOS版)は試していない。
 
 ![5-6-2_EtherChannel_replaced_by_Sharing_Port](5-6-2_EtherChannel_replaced_by_Sharing_Port/config.png)
 
+## 9-2-1_RIP_Basic
+
+9-2-1 RIPの有効化
+
+![9-2-1 RIP_Basic](9-2-1_RIP_Basic/config.png)
+
 ## メモ
 
 * Extreme Switchで試されない機能
