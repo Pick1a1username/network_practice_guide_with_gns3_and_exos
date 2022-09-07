@@ -56,6 +56,13 @@ Edge Port(PortFreeのEXOS版)は試していない。
 
 ![9-2-1 RIP_Basic](9-2-1_RIP_Basic/config.png)
 
+## 9-2-2_RIPv2
+
+9-2-2 RIPv2の設定
+
+![9-2-2 RIPv2](9-2-2_RIPv2/config.png)
+
+
 ## メモ
 
 * Extreme Switchで試されない機能

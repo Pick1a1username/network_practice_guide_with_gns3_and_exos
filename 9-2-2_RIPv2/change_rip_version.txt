@@ -1,0 +1,11 @@
+<sw1>
+configure rip vlan Routing1 txmode v2only
+configure rip vlan Classless1 txmode v2only
+
+<sw2>
+configure rip vlan Routing1 txmode v2only
+configure rip vlan Routing2 txmode v2only
+
+<sw3>
+configure rip vlan Routing2 txmode v2only
+configure rip vlan Classless2 txmode v2only
