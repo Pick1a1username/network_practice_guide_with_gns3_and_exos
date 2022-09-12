@@ -1,0 +1,20 @@
+configure snmp sysname sw1
+
+create vlan Routing1
+configure vlan Routing1 tag 1001
+configure vlan Routing1 ipaddress 192.168.10.1/24
+configure vlan Routing1 add port 12 tagged
+enable ipforwarding vlan Routing1
+
+create vlan Routing3
+configure vlan Routing3 tag 1003
+configure vlan Routing3 ipaddress 192.168.30.1/24
+configure vlan Routing3 add port 11 tagged
+enable ipforwarding vlan Routing3
+
+enable rip
+enable rip export direct cost 1
+configure rip add vlan Routing1
+configure rip vlan Routing1 txmode v2only
+configure rip add vlan Routing3
+configure rip vlan Routing3 txmode v2only

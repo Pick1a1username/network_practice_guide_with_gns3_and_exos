@@ -62,6 +62,12 @@ Edge Port(PortFreeのEXOS版)は試していない。
 
 ![9-2-2 RIPv2](9-2-2_RIPv2/config.png)
 
+## 9-2-3_Hops
+
+9-2-3 ホップ数によるルート選択
+
+![9-2-3 Hops](9-2-3_Hops/config.png)
+
 
 ## メモ
 
