@@ -1,0 +1,4 @@
+# At sw3
+
+vi deny_rip_packet.pol
+config rip vlan Routing3 route-policy out deny_rip_packet

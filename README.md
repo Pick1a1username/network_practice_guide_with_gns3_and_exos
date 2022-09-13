@@ -68,6 +68,11 @@ Edge Port(PortFreeのEXOS版)は試していない。
 
 ![9-2-3 Hops](9-2-3_Hops/config.png)
 
+## 9-2-4_RIP_Optimization
+
+9-2-4 RIPアップデートの最適化
+
+![9-2-4 RIP Optimization](9-2-3_RIP_Optimization/config.png)
 
 ## メモ
 

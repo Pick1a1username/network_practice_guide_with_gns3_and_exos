@@ -1,0 +1,7 @@
+entry deny_rip_packet {
+    if {
+    }
+    then {
+        deny;
+    }
+}
