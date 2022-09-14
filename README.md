@@ -72,7 +72,13 @@ Edge Port(PortFreeのEXOS版)は試していない。
 
 9-2-4 RIPアップデートの最適化
 
-![9-2-4 RIP Optimization](9-2-3_RIP_Optimization/config.png)
+![9-2-4 RIP Optimization](9-2-4_RIP_Optimization/config.png)
+
+## 9-2-5_RIP_Security
+
+9-2-5 セキュリティ設定
+
+![9-2-5 RIP Security](9-2-5_RIP_Security/config.png)
 
 ## メモ
 
